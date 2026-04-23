@@ -73,6 +73,7 @@ function App() {
   return (
     <div style={{ padding: 40 }}>
       <h1>DocBox</h1>
+      <h1>zipi 1</h1>
       <h2 style={{ backgroundColor: "lightgray" }}> יום נעים, אפשר להתחיל לעלות מסכמכים</h2>
       <input
         type="file"
